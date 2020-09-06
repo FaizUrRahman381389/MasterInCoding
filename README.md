@@ -1,0 +1,2 @@
+# MasterInCoding
+My Static Website
